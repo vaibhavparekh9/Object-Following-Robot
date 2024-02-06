@@ -10,7 +10,7 @@ During the initiation of the software coding phase, two parameters were left var
 
 It is known that the difference in RSSI values of both WiFi modules is sensitive to the distance between them, following a directly proportional relationship. Therefore, this value was finalized to be 70 cm.
 
-![image](https://github.com/vaibhavparekh9/Object-Following-Robot/assets/153970846/1f4699d5-f903-479c-b53b-aa36b974a171 | width = 100)
+![image](https://github.com/vaibhavparekh9/Object-Following-Robot/assets/153970846/1f4699d5-f903-479c-b53b-aa36b974a171|width = 100)
 
 ### 1. Code for the Right WiFi Module:
 
