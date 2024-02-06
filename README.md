@@ -10,6 +10,8 @@ During the initiation of the software coding phase, two parameters were left var
 
 It is known that the difference in RSSI values of both WiFi modules is sensitive to the distance between them, following a directly proportional relationship. Therefore, this value was finalized to be 70 cm.
 
+![image](https://github.com/vaibhavparekh9/Object-Following-Robot/assets/153970846/72c4594f-02c8-48b0-a6e8-6e554e0490ef)
+
 ### 1. Code for the Right WiFi Module:
 
 Initially, all the necessary libraries and dependencies are imported for Software Serial Communication and for enabling the WiFi capabilities of the NodeMCU. Subsequently, the credentials of the target WiFi Hotspot, such as its Name or SSID, and its password are stored in two separate variables. In the setup section, serial communication is established between the right and left WiFi modules, where the right module sends the latest recorded RSSI value to the left module. Additionally, the WiFi connection with the target hotspot source is established in the setup section.
